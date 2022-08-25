@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="tabFontSize" value="14" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-768a05dd:181d7d2617b:-8000" />
+    <option name="version" value="7.8.1" />
+    <option name="tabFont" value="Cascadia Code" />
+  </component>
+</application>
